@@ -1,6 +1,6 @@
 <div class="header">
 	<div class="titlepic">
-		<img src="assets/MMHeader2.png">
+		<a href="movie.php"><img src="assets/MMHeader2.png"></a>
 	</div>
 	<div class="links">
 		<a href="search.php">Search</a>
